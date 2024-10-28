@@ -1,0 +1,5 @@
+pending, Groceries, Oil, Vegitables, Rice
+completed, Assignment, Machine Learning, DAVP
+pending, Shopping, Buy Tshirt, Buy Jeans, Buys Gym Wears
+completed, Gym Workout, Chest Press, Shoulder Press,Tricep Extension
+pending, TA Duty, Check Midsem ,Update Grades,Check Quiz
