@@ -54,22 +54,22 @@ A command-line interface (CLI) for managing tasks. This application allows you t
    ```bash
    python task_manager.py help
 
-##3 Output Explanation
+### Output Explanation
 When you use the list command, tasks are displayed in the following format:
 
-**Output - pending, Groceries, Oil, Vegetables, Rice**
+- **Output - pending, Groceries, Oil, Vegetables, Rice**
+  ```bash
+  The output columns mean the following:
 
-The output columns mean the following:
+- **First Column (Status):** 
+  ```bash
+  The current status of the task, either pending or completed.
 
-**First Column (Status):** 
-```bash
-The current status of the task, either pending or completed.
-
-**Second Column (Task Name):** 
-```bash
+- **Second Column (Task Name):** 
+   ```bash
    The main task or objective that needs to be completed.
-
-**Remaining Columns (Description):** 
-```bash
+   
+**Remaining Columns (Description):**
+   ```bash
    Additional details or a breakdown of the task, describing specific items or subtasks required for completion.
 
